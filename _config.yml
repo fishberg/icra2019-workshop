@@ -2,7 +2,6 @@ title: "RACECAR Tutorial [ICRA '19]"
 logo: /assets/img/racecar.jpg
 description: "May 24, 2019 Montreal, Canada"
 show_downloads: false
-google_analytics:
 
 url: "https://fishberg.github.io/"
 baseurl: "/icra2019-workshop"
