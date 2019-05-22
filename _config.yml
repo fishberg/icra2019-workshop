@@ -6,3 +6,5 @@ google_analytics:
 
 url: fishberg.github.io
 baseurl: /icra2019-workshop
+
+theme: jekyll-theme-minimal
