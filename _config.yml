@@ -6,3 +6,6 @@ google_analytics:
 
 url: "https://fishberg.github.io/"
 baseurl: "/icra2019-workshop"
+
+gems:
+- jekyll-seo-tag
