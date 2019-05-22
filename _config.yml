@@ -1,9 +1,9 @@
 title: "RACECAR Tutorial [ICRA '19]"
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+logo: /assets/img/racecar.jpg
+description: "May 24, 2019 Montreal, Canada"
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 
-url: fishberg.github.io
-baseurl: /icra2019-workshop
+url: "https://fishberg.github.io/"
+baseurl: "/icra2019-workshop"
